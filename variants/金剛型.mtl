@@ -1,0 +1,35 @@
+newmtl hull
+Kd 0.34 0.37 0.4
+Ks 0.15 0.15 0.15
+Ns 30
+
+newmtl deck
+Kd 0.55 0.44 0.3
+Ks 0.15 0.15 0.15
+Ns 30
+
+newmtl turret
+Kd 0.3 0.33 0.36
+Ks 0.15 0.15 0.15
+Ns 30
+
+newmtl steel_dark
+Kd 0.22 0.24 0.26
+Ks 0.15 0.15 0.15
+Ns 30
+
+newmtl funnel
+Kd 0.26 0.28 0.3
+Ks 0.15 0.15 0.15
+Ns 30
+
+newmtl superstructure
+Kd 0.38 0.41 0.44
+Ks 0.15 0.15 0.15
+Ns 30
+
+newmtl mast
+Kd 0.24 0.26 0.28
+Ks 0.15 0.15 0.15
+Ns 30
+
