@@ -1,0 +1,282 @@
+[
+ {
+  "id": "B-C_Amagi",
+  "name": "B-C_Amagi",
+  "glb": "variants/B-C_Amagi.glb",
+  "annotations": "variants/B-C_Amagi_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 246.9,
+   "beam_m": 30.5,
+   "draught_m": 9.53,
+   "displacement_t": 41000,
+   "speed_kt": 30,
+   "funnels": 2,
+   "turret_layout": "2-1-2",
+   "main_gun": "41cm",
+   "date": "c.1918-20",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "B62",
+  "name": "B62",
+  "glb": "variants/B62.glb",
+  "annotations": "variants/B62_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 251.5,
+   "beam_m": 30.5,
+   "draught_m": 9.14,
+   "displacement_t": 39900,
+   "speed_kt": 32,
+   "funnels": 2,
+   "turret_layout": "2-2",
+   "main_gun": "41cm",
+   "date": "c.1917",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "B63a",
+  "name": "B63a",
+  "glb": "variants/B63a.glb",
+  "annotations": "variants/B63a_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 243.8,
+   "beam_m": 30.5,
+   "draught_m": 9.37,
+   "displacement_t": 41000,
+   "speed_kt": 29,
+   "funnels": 2,
+   "turret_layout": "2-1-2",
+   "main_gun": "41cm",
+   "date": "c.1917",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "B64",
+  "name": "B64",
+  "glb": "variants/B64.glb",
+  "annotations": "variants/B64_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 246.9,
+   "beam_m": 30.5,
+   "draught_m": 9.37,
+   "displacement_t": 41000,
+   "speed_kt": 30,
+   "funnels": 2,
+   "turret_layout": "2-1-2",
+   "main_gun": "41cm",
+   "date": "c.1917",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "G",
+  "name": "G",
+  "glb": "variants/G.glb",
+  "annotations": "variants/G_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 286.5,
+   "beam_m": 29.9,
+   "draught_m": 8.53,
+   "displacement_t": 43500,
+   "speed_kt": 35,
+   "funnels": 3,
+   "turret_layout": "2-2",
+   "main_gun": "41cm",
+   "date": "c.1918",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "A123",
+  "name": "A123",
+  "glb": "variants/A123.glb",
+  "annotations": "variants/A123_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 227.1,
+   "beam_m": 31.6,
+   "draught_m": 9.14,
+   "displacement_t": 36600,
+   "speed_kt": 27,
+   "funnels": 2,
+   "turret_layout": "2-1-2",
+   "main_gun": "14in",
+   "date": "1917-01-11",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "A124",
+  "name": "A124",
+  "glb": "variants/A124.glb",
+  "annotations": "variants/A124_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 227.1,
+   "beam_m": 30.5,
+   "draught_m": 9.14,
+   "displacement_t": 37200,
+   "speed_kt": 27,
+   "funnels": 2,
+   "turret_layout": "2-1-2",
+   "main_gun": "14in",
+   "date": "1917-02-03",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "A126",
+  "name": "A126",
+  "glb": "variants/A126.glb",
+  "annotations": "variants/A126_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 227.1,
+   "beam_m": 30.5,
+   "draught_m": 9.3,
+   "displacement_t": 39300,
+   "speed_kt": 26.5,
+   "funnels": 1,
+   "turret_layout": "2-1-2",
+   "main_gun": "41cm",
+   "date": "c.1918",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "A127_加賀型",
+  "name": "A127_加賀型",
+  "glb": "variants/A127_加賀型.glb",
+  "annotations": "variants/A127_加賀型_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 228.6,
+   "beam_m": 30.5,
+   "draught_m": 9.35,
+   "displacement_t": 39900,
+   "speed_kt": 26.5,
+   "funnels": 1,
+   "turret_layout": "2-1-2",
+   "main_gun": "41cm",
+   "date": "c.1919",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "球磨型",
+  "name": "球磨型",
+  "glb": "variants/球磨型.glb",
+  "annotations": "variants/球磨型_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 158.5,
+   "beam_m": 14.2,
+   "draught_m": 4.8,
+   "displacement_t": 5506,
+   "speed_kt": 36,
+   "funnels": 3,
+   "turret_layout": "2-2",
+   "main_gun": "14cm",
+   "date": "c.1920",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "古鷹型",
+  "name": "古鷹型",
+  "glb": "variants/古鷹型.glb",
+  "annotations": "variants/古鷹型_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 176.8,
+   "beam_m": 15.5,
+   "draught_m": 4.57,
+   "displacement_t": 7100,
+   "speed_kt": 34.5,
+   "funnels": 2,
+   "turret_layout": "3-3",
+   "main_gun": "20cm",
+   "date": "1922",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "扶桑型",
+  "name": "扶桑型",
+  "glb": "variants/扶桑型.glb",
+  "annotations": "variants/扶桑型_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 195.1,
+   "beam_m": 28.7,
+   "draught_m": 8.69,
+   "displacement_t": 30600,
+   "speed_kt": 23,
+   "funnels": 2,
+   "turret_layout": "2-2-2",
+   "main_gun": "14in",
+   "date": "1913",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "金剛型",
+  "name": "金剛型",
+  "glb": "variants/金剛型.glb",
+  "annotations": "variants/金剛型_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 201.2,
+   "beam_m": 28.0,
+   "draught_m": 8.38,
+   "displacement_t": 27642,
+   "speed_kt": 27.5,
+   "funnels": 2,
+   "turret_layout": "2-2",
+   "main_gun": "14in",
+   "date": "1914",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ },
+ {
+  "id": "長門型_陸奥",
+  "name": "長門型_陸奥",
+  "glb": "variants/長門型_陸奥.glb",
+  "annotations": "variants/長門型_陸奥_annotations.json",
+  "verified": true,
+  "metadata": {
+   "L_wl_m": 213.6,
+   "beam_m": 29.0,
+   "draught_m": 9.14,
+   "displacement_t": 33029,
+   "speed_kt": 26.5,
+   "funnels": 2,
+   "turret_layout": "2-2",
+   "main_gun": "41cm",
+   "date": "1921",
+   "provenance": "平賀譲デジタルアーカイブ（東京大学）",
+   "method": "線図・主要目からのパラメトリック復元（複数エージェントで図面照合）"
+  }
+ }
+]

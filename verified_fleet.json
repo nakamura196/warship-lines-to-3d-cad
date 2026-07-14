@@ -1,0 +1,16 @@
+[
+ {"name":"B-C_Amagi","L_wl_ft":810,"beam_ft":100,"beam_max_ft":102.9,"draught_ft":31.25,"displacement_t":41000,"speed_kt":30,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1918-20","verified":true},
+ {"name":"B62","L_wl_ft":825,"beam_ft":100,"draught_ft":30.0,"displacement_t":39900,"speed_kt":32,"n_funnels":2,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1917","verified":true},
+ {"name":"B63a","L_wl_ft":800,"beam_ft":100,"draught_ft":30.75,"displacement_t":41000,"speed_kt":29,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1917","verified":true},
+ {"name":"B64","L_wl_ft":810,"beam_ft":100,"draught_ft":30.75,"displacement_t":41000,"speed_kt":30,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1917","verified":true},
+ {"name":"G","L_wl_ft":940,"beam_ft":98,"draught_ft":28.0,"displacement_t":43500,"speed_kt":35,"n_funnels":3,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1918","verified":true},
+ {"name":"A123","L_wl_ft":745,"beam_ft":103.75,"draught_ft":30.0,"displacement_t":36600,"speed_kt":27,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"14in","date":"1917-01-11","verified":true},
+ {"name":"A124","L_wl_ft":745,"beam_ft":100,"draught_ft":30.0,"displacement_t":37200,"speed_kt":27,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"14in","date":"1917-02-03","verified":true},
+ {"name":"A126","L_wl_ft":745,"beam_ft":100,"draught_ft":30.5,"displacement_t":39300,"speed_kt":26.5,"n_funnels":1,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1918","verified":true},
+ {"name":"A127_加賀型","L_wl_ft":750,"beam_ft":100,"beam_max_ft":101.83,"draught_ft":30.67,"displacement_t":39900,"speed_kt":26.5,"n_funnels":1,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm","date":"c.1919","verified":true},
+ {"name":"球磨型","L_wl_ft":520.125,"beam_ft":46.5,"draught_ft":15.75,"displacement_t":5506,"speed_kt":36,"n_funnels":3,"turret_layout":"2-2","guns_per_turret":1,"main_gun":"14cm","date":"c.1920","verified":true,"midship_halfbreadths_ft":{"keel":0,"5WL":14.75,"4WL":20.92,"3WL":22.94,"2WL":23.25,"LWL":23.25}},
+ {"name":"古鷹型","L_wl_ft":580,"beam_ft":50.75,"draught_ft":15.0,"displacement_t":7100,"speed_kt":34.5,"n_funnels":2,"turret_layout":"3-3","guns_per_turret":1,"main_gun":"20cm","date":"1922","verified":true,"midship_halfbreadths_ft":{"keel":0,"5WL":20.39,"4WL":24.60,"3WL":25.38,"2WL":24.98,"LWL":25.38}},
+ {"name":"扶桑型","L_wl_ft":640,"beam_ft":94,"draught_ft":28.5,"displacement_t":30600,"speed_kt":23,"n_funnels":2,"turret_layout":"2-2-2","guns_per_turret":2,"main_gun":"14in","date":"1913","verified":true,"lwl_note":"L_wl derived (sheet: LBP630/LOA673)"},
+ {"name":"金剛型","L_wl_ft":660,"beam_ft":92,"draught_ft":27.5,"displacement_t":27642,"speed_kt":27.5,"n_funnels":2,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"14in","date":"1914","verified":true,"lwl_note":"L_wl derived (sheet: LBP653.5/LOA704)"},
+ {"name":"長門型_陸奥","L_wl_ft":700.7,"beam_ft":95,"draught_ft":30.0,"displacement_t":33029,"speed_kt":26.5,"n_funnels":2,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"41cm","date":"1921","verified":true}
+]

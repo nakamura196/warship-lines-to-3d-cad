@@ -1,0 +1,114 @@
+[
+ {
+  "position": [
+   202.39,
+   0.0,
+   18.44
+  ],
+  "title": "前部主砲（2基・連装）",
+  "title_en": "Forward main turrets",
+  "lead": "41cm 連装砲塔 2基",
+  "lead_en": "Forward main battery",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   121.92,
+   0.0,
+   17.53
+  ],
+  "title": "中央主砲（1基）",
+  "title_en": "Amidships main turret(s)",
+  "lead": "中央部の主砲",
+  "lead_en": "Amidships main battery",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   41.45,
+   0.0,
+   18.44
+  ],
+  "title": "後部主砲（2基・連装）",
+  "title_en": "Aft main turrets",
+  "lead": "41cm 連装砲塔 2基",
+  "lead_en": "Aft main battery",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   156.06,
+   0.0,
+   24.84
+  ],
+  "title": "煙突（2本）",
+  "title_en": "Funnels (2)",
+  "lead": "煙突2本。設計案により本数が変化。",
+  "lead_en": "2 funnel(s)",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   178.0,
+   0.0,
+   21.79
+  ],
+  "title": "艦橋",
+  "title_en": "Bridge",
+  "lead": "艦橋構造",
+  "lead_en": "Bridge structure",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   173.13,
+   0.0,
+   32.46
+  ],
+  "title": "前檣",
+  "title_en": "Foremast",
+  "lead": "前部マスト",
+  "lead_en": "Foremast",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   107.29,
+   0.0,
+   30.94
+  ],
+  "title": "主檣",
+  "title_en": "Mainmast",
+  "lead": "後部マスト",
+  "lead_en": "Mainmast",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ }
+]

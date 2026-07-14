@@ -1,0 +1,5 @@
+[
+ {"name":"扶桑型","L_wl_ft":640,"beam_ft":94,"draught_ft":28.5,"displacement_t":30600,"speed_kt":23,"n_funnels":2,"turret_layout":"2-2-2","guns_per_turret":2,"main_gun":"14in","bow_hollow":0.05,"_L_wl_note":"estimated (sheet gives LBP630/LOA673; pending verify)"},
+ {"name":"金剛型","L_wl_ft":660,"beam_ft":92,"draught_ft":27.5,"displacement_t":27642,"speed_kt":27.5,"n_funnels":2,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"14in","bow_hollow":0.05,"_L_wl_note":"estimated (sheet gives LBP653.5/LOA704; pending verify)"},
+ {"name":"長門型_陸奥","L_wl_ft":700.7,"beam_ft":95,"draught_ft":30.0,"displacement_t":33029,"speed_kt":26.5,"n_funnels":2,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"41cm","bow_hollow":0.12,"_L_wl_note":"LWL 700.7 read directly on sheet"}
+]

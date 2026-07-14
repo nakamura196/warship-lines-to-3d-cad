@@ -1,0 +1,98 @@
+[
+ {
+  "position": [
+   131.58,
+   0.0,
+   13.87
+  ],
+  "title": "前部主砲（2基・1門）",
+  "title_en": "Forward main turrets",
+  "lead": "14cm 1門砲塔 2基",
+  "lead_en": "Forward main battery",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   26.95,
+   0.0,
+   13.87
+  ],
+  "title": "後部主砲（2基・1門）",
+  "title_en": "Aft main turrets",
+  "lead": "14cm 1門砲塔 2基",
+  "lead_en": "Aft main battery",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   101.46,
+   0.0,
+   20.27
+  ],
+  "title": "煙突（3本）",
+  "title_en": "Funnels (3)",
+  "lead": "煙突3本。設計案により本数が変化。",
+  "lead_en": "3 funnel(s)",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   115.73,
+   0.0,
+   17.22
+  ],
+  "title": "艦橋",
+  "title_en": "Bridge",
+  "lead": "艦橋構造",
+  "lead_en": "Bridge structure",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   112.56,
+   0.0,
+   27.89
+  ],
+  "title": "前檣",
+  "title_en": "Foremast",
+  "lead": "前部マスト",
+  "lead_en": "Foremast",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "position": [
+   69.76,
+   0.0,
+   26.37
+  ],
+  "title": "主檣",
+  "title_en": "Mainmast",
+  "lead": "後部マスト",
+  "lead_en": "Mainmast",
+  "normal": [
+   0,
+   0,
+   1
+  ]
+ }
+]
