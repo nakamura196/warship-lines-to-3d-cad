@@ -50,6 +50,19 @@ _beam_lwl = np.array([
 # "V-ness" of sections: 0 = wall-sided/flat (midship), 1 = deep-V (ends).
 _vness = np.clip(np.abs(_stn-10.5)/10.5, 0, 1)**1.6
 
+# Bow-form control: 0 = convex bow waterline (older/fuller entrance),
+# 1 = strongly hollow, streamlined entrance (the post-Nagato "smoother" bow).
+BOW_HOLLOW = 0.0
+def _apply_bow(bl):
+    """Pull in the mid-entrance of the forward waterplane so the bow waterline
+    becomes hollow (S-shaped) rather than a plain convex taper."""
+    if BOW_HOLLOW <= 0: return bl
+    bl = bl.copy(); i0 = 13; n = len(bl)
+    for i in range(i0, n-1):
+        t = (i-i0)/(n-1-i0)                    # 0 at entrance start, 1 near stem
+        bl[i] *= (1.0 - 0.40*BOW_HOLLOW*np.sin(np.pi*t))
+    return bl
+
 # Midship vertical section template, fitted to the body-plan measurements
 # (station 10, normalised to max half-beam BMAX_H=51.45 ft):
 #   z/T : 0    0.2   0.4   0.6   0.8   1.0(LWL)
@@ -86,9 +99,10 @@ def build_offsets(fullness):
     zs = np.arange(0, Z_DECK+1e-6, WL_DZ)
     if zs[-1] < Z_DECK: zs = np.append(zs, Z_DECK)
     Y = np.zeros((len(xs), len(zs)))
+    beam = _apply_bow(_beam_lwl)          # apply bow-form (hollow entrance)
     for i in range(len(xs)):
         for j,z in enumerate(zs):
-            Y[i,j] = section_halfbreadth(_beam_lwl[i], _vness[i], z, fullness)
+            Y[i,j] = section_halfbreadth(beam[i], _vness[i], z, fullness)
     return xs, zs, Y
 
 def displacement_tons(xs, zs, Y):

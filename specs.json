@@ -1,0 +1,7 @@
+[
+ {"name":"B-C_Amagi","L_wl_ft":810,"beam_ft":100,"beam_max_ft":102.9,"draught_ft":31.25,"displacement_t":41000,"speed_kt":30,"n_funnels":2,"turret_layout":"2-1-2","main_gun":"41cm"},
+ {"name":"B62","L_wl_ft":825,"beam_ft":100,"beam_max_ft":101.2,"draught_ft":30.0,"displacement_t":39900,"speed_kt":32,"n_funnels":2,"turret_layout":"2-2","main_gun":"41cm"},
+ {"name":"B63a","L_wl_ft":800,"beam_ft":100,"beam_max_ft":102.9,"draught_ft":30.75,"displacement_t":41000,"speed_kt":29,"n_funnels":2,"turret_layout":"2-1-2","main_gun":"41cm"},
+ {"name":"B64","L_wl_ft":810,"beam_ft":100,"beam_max_ft":102.9,"draught_ft":30.75,"displacement_t":41000,"speed_kt":30,"n_funnels":2,"turret_layout":"2-1-2","main_gun":"41cm"},
+ {"name":"G","L_wl_ft":940,"beam_ft":98,"draught_ft":28.0,"displacement_t":43500,"speed_kt":35,"n_funnels":3,"turret_layout":"2-2","main_gun":"41cm"}
+]

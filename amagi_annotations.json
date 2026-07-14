@@ -1,0 +1,79 @@
+[
+ {
+  "position": [
+   208.79,
+   0.0,
+   20.42
+  ],
+  "title": "前部主砲塔（2基・背負式）",
+  "title_en": "Forward main turrets (2, super-firing)",
+  "lead": "41cm連装砲塔を前部に2基。上段が背負式で射界を確保。",
+  "lead_en": "Two twin 41cm turrets forward, upper one super-firing."
+ },
+ {
+  "position": [
+   123.44,
+   0.0,
+   17.68
+  ],
+  "title": "中央主砲塔（1基）",
+  "title_en": "Amidships main turret",
+  "lead": "煙突・機関部の後方、中央に1基。2-1-2配置の要。",
+  "lead_en": "One turret amidships — the '1' of the 2-1-2 layout."
+ },
+ {
+  "position": [
+   54.86,
+   0.0,
+   20.42
+  ],
+  "title": "後部主砲塔（2基・背負式）",
+  "title_en": "Aft main turrets (2, super-firing)",
+  "lead": "後部に連装2基。前部と対称の背負式。",
+  "lead_en": "Two twin turrets aft, super-firing like the bow pair."
+ },
+ {
+  "position": [
+   150.88,
+   0.0,
+   26.21
+  ],
+  "title": "煙突（2本）",
+  "title_en": "Funnels (2)",
+  "lead": "6缶室を2本に集合。天城型as-builtの特徴。設計案により1〜3本と変化。",
+  "lead_en": "Two funnels trunking six boiler rooms; varies 1–3 across design studies."
+ },
+ {
+  "position": [
+   179.22,
+   0.0,
+   24.99
+  ],
+  "title": "艦橋",
+  "title_en": "Bridge tower",
+  "lead": "前部主砲の後方に位置する司令塔・艦橋構造。",
+  "lead_en": "Conning/bridge structure abaft the forward turrets."
+ },
+ {
+  "position": [
+   175.26,
+   0.0,
+   34.14
+  ],
+  "title": "前檣（三脚）",
+  "title_en": "Tripod foremast",
+  "lead": "測距・見張り用の前部マスト。",
+  "lead_en": "Forward mast for rangefinding and lookout."
+ },
+ {
+  "position": [
+   109.73,
+   0.0,
+   31.09
+  ],
+  "title": "主檣",
+  "title_en": "Mainmast",
+  "lead": "煙突後方の後部マスト。",
+  "lead_en": "After mast abaft the funnels."
+ }
+]

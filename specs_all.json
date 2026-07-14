@@ -1,0 +1,9 @@
+[
+ {"name":"球磨型","L_wl_ft":520.125,"beam_ft":46.5,"draught_ft":15.75,"displacement_t":5506,"speed_kt":36,"n_funnels":3,"turret_layout":"2-2","guns_per_turret":1,"main_gun":"14cm","bow_hollow":0.15,"midship_halfbreadths_ft":{"keel":0,"5WL":14.75,"4WL":20.92,"3WL":22.94,"2WL":23.25,"LWL":23.25}},
+ {"name":"古鷹型","L_wl_ft":580,"beam_ft":50.75,"draught_ft":15.0,"displacement_t":7100,"speed_kt":34.5,"n_funnels":2,"turret_layout":"3-3","guns_per_turret":1,"main_gun":"20cm","bow_hollow":0.1,"midship_halfbreadths_ft":{"keel":0,"5WL":20.39,"4WL":24.60,"3WL":25.38,"2WL":24.98,"LWL":25.38}},
+ {"name":"A127_加賀型","L_wl_ft":750,"beam_ft":100,"beam_max_ft":101.83,"draught_ft":30.67,"displacement_t":39900,"speed_kt":26.5,"n_funnels":1,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm","bow_hollow":0.25},
+ {"name":"A124","L_wl_ft":745,"beam_ft":100,"draught_ft":30.0,"displacement_t":37200,"speed_kt":27,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"14in"},
+ {"name":"B-C_Amagi","L_wl_ft":810,"beam_ft":100,"beam_max_ft":102.9,"draught_ft":31.25,"displacement_t":41000,"speed_kt":30,"n_funnels":2,"turret_layout":"2-1-2","guns_per_turret":2,"main_gun":"41cm"},
+ {"name":"B62","L_wl_ft":825,"beam_ft":100,"beam_max_ft":101.2,"draught_ft":30.0,"displacement_t":39900,"speed_kt":32,"n_funnels":2,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"41cm"},
+ {"name":"G","L_wl_ft":940,"beam_ft":98,"draught_ft":28.0,"displacement_t":43500,"speed_kt":35,"n_funnels":3,"turret_layout":"2-2","guns_per_turret":2,"main_gun":"41cm"}
+]
