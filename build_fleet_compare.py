@@ -37,7 +37,7 @@ for k,s in enumerate(ships):
     if s["disp"]: lab+=f' / {s["disp"]:,}t'
     if s["kt"]: lab+=f' / {s["kt"]}kt'
     ax.text(s["x"].max()+6, off, lab, va="center", fontsize=10)
-ax.set_title("八八艦隊系 設計案 サイズ比較（同一縮尺・水線面を上から／複数エージェントで図面一致を検証済）",fontsize=11)
+ax.set_title("平賀譲設計 主要艦 サイズ比較（同一縮尺・水線面を上から／複数エージェントで図面一致を検証済）",fontsize=11)
 ax.set_xlabel("m"); ax.set_aspect("equal"); ax.set_yticks([]); ax.set_xlim(-10,ships[-1]["L"]+150)
 plt.tight_layout(); plt.savefig(os.path.join(here,"size_compare.png"),dpi=120,bbox_inches="tight"); plt.close()
 print("wrote size_compare.png")
