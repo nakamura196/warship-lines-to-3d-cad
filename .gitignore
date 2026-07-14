@@ -1,0 +1,7 @@
+# archive-derived images (do not redistribute) & regenerable render frames
+crop/
+src/
+frames/
+__pycache__/
+*.pyc
+.DS_Store
